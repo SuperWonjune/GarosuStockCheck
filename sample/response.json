@@ -1,0 +1,119 @@
+{
+    "head": {
+        "status": "200",
+        "data": {}
+    },
+    "body": {
+        "stores": [
+            {
+                "storeEmail": "garosugil@apple.com",
+                "storeName": "가로수길",
+                "reservationUrl": "http://www.apple.com/kr/retail/garosugil",
+                "makeReservationUrl": "http://www.apple.com/kr/retail/garosugil",
+                "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R692.png?resize=828:*&output-format=jpg",
+                "country": "KR",
+                "city": "서울",
+                "storeNumber": "R692",
+                "partsAvailability": {
+                    "MWTJ2KH/A": {
+                        "storePickEligible": true,
+                        "storeSearchEnabled": true,
+                        "storeSelectionEnabled": false,
+                        "storePickupQuote": "현재 Apple 가로수길에서 이용할 수 없음",
+                        "pickupSearchQuote": "현재 사용할 수 없음",
+                        "storePickupLabel": "픽업:",
+                        "partNumber": "MWTJ2KH/A",
+                        "purchaseOption": "",
+                        "ctoOptions": "",
+                        "storePickupLinkText": "자세한 정보 보기",
+                        "storePickupProductTitle": "13형 MacBook Air - 스페이스 그레이",
+                        "pickupDisplay": "unavailable"
+                    },
+                    "MWTL2KH/A": {
+                        "storePickEligible": true,
+                        "storeSearchEnabled": true,
+                        "storeSelectionEnabled": false,
+                        "storePickupQuote": "현재 Apple 가로수길에서 이용할 수 없음",
+                        "pickupSearchQuote": "현재 사용할 수 없음",
+                        "storePickupLabel": "픽업:",
+                        "partNumber": "MWTL2KH/A",
+                        "purchaseOption": "",
+                        "ctoOptions": "",
+                        "storePickupLinkText": "자세한 정보 보기",
+                        "storePickupProductTitle": "13형 MacBook Air - 골드",
+                        "pickupDisplay": "unavailable"
+                    },
+                    "MVVK2KH/A": {
+                        "storePickEligible": true,
+                        "storeSearchEnabled": true,
+                        "storeSelectionEnabled": true,
+                        "storePickupQuote": "익일, 위치: Apple 가로수길",
+                        "pickupSearchQuote": "가능 익일",
+                        "storePickupLabel": "매장 내 픽업:",
+                        "partNumber": "MVVK2KH/A",
+                        "purchaseOption": "",
+                        "ctoOptions": "",
+                        "storePickupLinkText": "자세한 정보 보기",
+                        "storePickupProductTitle": "16형 MacBook Pro - 스페이스 그레이",
+                        "pickupDisplay": "available",
+                        "pickupType": "매장 내 픽업"
+                    }
+                },
+                "phoneNumber": "2-20864600",
+                "pickupTypeAvailabilityText": "이 위치에서 매장 내 픽업 이용 가능.",
+                "address": {
+                    "address": "Apple 가로수길",
+                    "address3": "가로수길 43",
+                    "address2": "강남구",
+                    "postalCode": "06028"
+                },
+                "hoursUrl": "http://www.apple.com/kr/retail/garosugil",
+                "storeHours": {
+                    "storeHoursText": "Store Hours",
+                    "bopisPickupDays": "Days",
+                    "bopisPickupHours": "Hours",
+                    "hours": [
+                        {
+                            "storeTimings": "10:00 오전-10:00 오후",
+                            "storeDays": "월요일-일요일:"
+                        }
+                    ]
+                },
+                "specialHours": {
+                    "specialHoursText": "매장 특별 행사 시간:",
+                    "bopisPickupDays": "Days",
+                    "bopisPickupHours": "Hours",
+                    "specialHoursData": [],
+                    "viewAllSpecialHours": false
+                },
+                "storelatitude": 37.5209,
+                "storelongitude": 127.0228,
+                "storedistance": 0.15,
+                "storeDistanceWithUnit": "0.15 km",
+                "storeDistanceVoText": "0.15 km from 06028",
+                "storelistnumber": 1,
+                "storeListNumber": 1,
+                "pickupOptionsDetails": {
+                    "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">픽업 관련 공지&nbsp;</span><br />주문하신 제품이 준비되면 자세한 픽업 안내를 이메일로 보내 드립니다. 새 기기 설정과 관련하여 도움이 필요하시면 Apple 스페셜리스트가 진행하는 무료 온라인 세션을 예약하세요.",
+                    "comparePickupOptionsLink": "<a href=\"https://www.apple.com/kr/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">배송 및 픽업에 대해 <br />더 알아보기<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(새 창에서 열림)</span></a>",
+                    "pickupOptions": [
+                        {
+                            "pickupOptionTitle": "매장 내",
+                            "pickupOptionDescription": "온라인으로 주문하신 제품을 픽업하세요. 기기 설정과 관련한 도움도 받고, 액세서리도 쇼핑하실 수 있습니다. 픽업 시 체온 확인과 마스크 착용은 필수입니다.",
+                            "index": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "overlayInitiatedFromWarmStart": true,
+        "viewMoreHoursLinkText": "다른 시간 보기",
+        "storesCount": "1 stores found near 06028",
+        "little": false,
+        "location": "06028",
+        "notAvailableNearby": "가장 가까운 [X] 매장에는 오늘 재고가 없습니다.",
+        "notAvailableNearOneStore": "가장 가까운 매장에는 오늘 재고가 없습니다.",
+        "warmDudeWithAPU": false,
+        "viewMoreHoursVoText": "(새 창에서 열림)"
+    }
+}
